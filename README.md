@@ -1,2 +1,2 @@
-# -daily-brief
+# daily-brief
     1日5分で今日の重要ニュースがわかるサイト
